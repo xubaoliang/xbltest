@@ -8,8 +8,8 @@ Welcome to xbldoc's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   dap
 
 
 Indices and tables
