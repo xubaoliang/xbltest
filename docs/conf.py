@@ -20,7 +20,6 @@
 project = 'xbldoc'
 copyright = '2019, xubaoliang'
 author = 'xubaoliang'
-master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
@@ -46,29 +45,12 @@ language = 'zh_CN'
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
-# The version info for the project you're documenting, acts as replacement for
-# |version| and |release|, also used in various other places throughout the
-# built documents.
-#
-# The short X.Y version.
-version = u'0.0.1'
-# The full version, including alpha/beta/rc tags.
-release = u'0.0.1'
-
-
-# The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
-
-# If true, `todo` and `todoList` produce output, else they produce nothing.
-todo_include_todos = False
-
-
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'default'
+html_theme = 'alabaster'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
