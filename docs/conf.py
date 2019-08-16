@@ -20,6 +20,7 @@
 project = 'xbldoc'
 copyright = '2019, xubaoliang'
 author = 'xubaoliang'
+master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
